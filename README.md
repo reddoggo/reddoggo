@@ -19,7 +19,7 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ### Testing Documentation
-- [Checklists](https://github.com/reddoggo/reddoggo/blob/main/checklists/checklist.pdf)
+- [Checklists](https://github.com/reddoggo/reddoggo/tree/main/checklists)
 - [Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
