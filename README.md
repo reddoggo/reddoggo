@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/reddoggo/reddoggo/blob/main/assets/VERA%20GURICHEVA.png)
 
 About me
 
