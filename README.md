@@ -20,7 +20,7 @@
 
 ### Testing Documentation
 - [Checklists](https://github.com/reddoggo/reddoggo/blob/main/checklists/checklist.pdf)
-- [Test-Suites and Test-Cases]()
+- [Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
