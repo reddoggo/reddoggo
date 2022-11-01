@@ -22,7 +22,7 @@
 - [Checklists](https://github.com/reddoggo/reddoggo/tree/main/checklists)
 - [Test-Cases](https://github.com/reddoggo/reddoggo/tree/main/test-cases)
 - [Bug-Reports](https://github.com/reddoggo/reddoggo/tree/main/bug-reports)
-- [SQL Queries]()
+- [SQL Queries](https://github.com/reddoggo/reddoggo/blob/main/sql%20queries/sql%20queries.pdf)
 - [Postman Collections]()
 
 ## Contact me 
