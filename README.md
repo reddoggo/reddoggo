@@ -21,7 +21,7 @@
 ### Testing Documentation
 - [Checklists](https://github.com/reddoggo/reddoggo/tree/main/checklists)
 - [Test-Cases](https://github.com/reddoggo/reddoggo/tree/main/test-cases)
-- [Bug-Reports]()
+- [Bug-Reports](https://github.com/reddoggo/reddoggo/tree/main/bug-reports)
 - [SQL Queries]()
 - [Postman Collections]()
 
