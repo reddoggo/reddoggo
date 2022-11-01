@@ -23,7 +23,7 @@
 - [Test-Cases](https://github.com/reddoggo/reddoggo/tree/main/test-cases)
 - [Bug-Reports](https://github.com/reddoggo/reddoggo/tree/main/bug-reports)
 - [SQL Queries](https://github.com/reddoggo/reddoggo/blob/main/sql%20queries/sql%20queries.pdf)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/reddoggo/reddoggo/blob/main/postman%20collections/postman%20collections)
 
 ## Contact me 
 
