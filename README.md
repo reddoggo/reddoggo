@@ -3,7 +3,7 @@
 ## I am a beginner QA engineer☺️
 
 ## My CV
-![Header](https://headhunter.ge/applicant/resumes/view?resume=4c3e57e9ff0b4697270039ed1f594c33374567)
+![Link to my CV]()
 
 
 ## Languages and Tools
