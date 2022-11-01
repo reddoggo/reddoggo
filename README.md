@@ -2,6 +2,10 @@
 
 ## I am a beginner QA engineer☺️
 
+## My CV
+![Header](https://headhunter.ge/applicant/resumes/view?resume=4c3e57e9ff0b4697270039ed1f594c33374567)
+
+
 ## Languages and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -26,6 +30,5 @@
 - [Postman Collections](https://github.com/reddoggo/reddoggo/blob/main/postman%20collections/postman%20collections)
 
 ## Contact me 
-
-
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/gafgafgaf)
 
