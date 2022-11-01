@@ -3,7 +3,7 @@
 ## I am a beginner QA engineer☺️
 
 ## My CV
-![Link to my CV]()
+[Link to my CV](https://github.com/reddoggo/reddoggo/blob/main/my%20CV/Guricheva%20Vera%20CV.pdf)
 
 
 ## Languages and Tools
