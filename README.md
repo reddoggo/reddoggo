@@ -5,8 +5,6 @@
 ## My CV
 [Link to my CV](https://github.com/reddoggo/reddoggo/blob/main/my%20CV/Guricheva%20Vera%20CV.pdf)
 
-[Link to my Certificate](https://github.com/reddoggo/reddoggo/commit/cd14ed2d1ce86d69737d70e80a823f076fd1ffe7)
-
 ## Languages and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
